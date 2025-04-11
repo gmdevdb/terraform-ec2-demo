@@ -1,3 +1,4 @@
+#just adding a comment
 provider "aws" {
   profile = "devops-user"     # Your configured AWS profile
   region  = "us-east-1"
