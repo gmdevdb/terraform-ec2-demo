@@ -10,7 +10,7 @@ resource "aws_instance" "my_ec2" {
 
   tags = {
     Name = "Terraform-EC2-Demo"
-    Environment = "Dev"
+    Environment = "UAT"
   }
 }
 
